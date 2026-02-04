@@ -6,13 +6,13 @@ Submission Date: 06/02/2026
 
 Task Completion
 
-[ ] Part 1: Threat Model & Attack Surface Analysis
-[ ] Part 2: Deep-Dive Security Analysis
-[ ] Part 3: Incident Response Plan
-[ ] AI Usage Documentation (if applicable)
+[x] Part 1: Threat Model & Attack Surface Analysis
+[x] Part 2: Deep-Dive Security Analysis
+[x] Part 3: Incident Response Plan
+[x] AI Usage Documentation (if applicable)
 
 Brief Note
 
-This submission focuses on realistic, high-impact risks relevant to a multi-tenant SaaS CRM platform.
-I prioritised attacker mindset, clarity, and practical cloud security controls aligned with real-world environments.
-Each section reflects structured reasoning and professional security analysis.
+This submission focuses on realistic, high-impact risks affecting a multi-tenant SaaS CRM platform.
+I approached the task with an attacker mindset, prioritising clarity, practical security controls, and real-world relevance.
+Each section reflects structured reasoning aligned with modern cloud and application security practices.
